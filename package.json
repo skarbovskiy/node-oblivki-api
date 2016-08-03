@@ -1,0 +1,24 @@
+{
+  "name": "oblivki-api",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=4.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skarbovskiy/node-oblivki-api"
+  },
+  "description": "oblivki api client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "george.skarbovskiy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "jimp": "^0.2.24",
+    "lodash": "^4.14.1",
+    "request": "^2.74.0"
+  }
+}
